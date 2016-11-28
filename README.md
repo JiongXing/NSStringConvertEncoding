@@ -21,4 +21,4 @@ characters = @"感谢";
 utf8 = [characters convertToUTF8Code];
 NSLog(@"把文字转成十六进制UTF8编码:%@ --> %@", characters, utf8);
 ```
-![控制台输出](https://github.com/JiongXing/NSStringConvertEncoding/raw/master/resources/NSStringConvertEncoding.png)
+![控制台输出](https://github.com/JiongXing/NSStringConvertEncoding/raw/master/resources/screenshot.png)
